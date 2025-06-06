@@ -2,7 +2,7 @@
 
 # Makefile for MinGW-w64
 
-CPP := g++
+CPP := x86_64-w64-mingw32-g++
 
 all: lanchat.exe lanchat_static.exe
 
