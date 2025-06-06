@@ -5,9 +5,7 @@
 #include <thread>
 #include <windows.h>
 #include <xaudio2.h>
-//#include <Mmdeviceapi.h>
 #include <audioclient.h>
-//#include <Audiosessiontypes.h>
 
 #define ON_FAILED_RESULT if(FAILED(hr)){ break; }
 #define REFTIMES_PER_SEC 10000000
