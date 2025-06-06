@@ -1,5 +1,3 @@
-//Copyright 2025 FickleTortoise
-
 #include <iostream>
 #include <fstream>
 #include <thread>
