@@ -1,10 +1,5 @@
 //Copyright 2025 FickleTortoise
 
-/*
-g++ lanchat.cpp -l Xaudio2_9 -l Ole32 -l ksuser -l Ws2_32 -o lanchat.exe
-g++ lanchat.cpp -l Xaudio2_9 -l Ole32 -l ksuser -l Ws2_32 -static -s -Os -o lanchat_static.exe
-*/
-
 #include <iostream>
 #include <fstream>
 #include <thread>
